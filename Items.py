@@ -29,19 +29,23 @@ class Items:
     def print_inventory_data_str(product, product_name):
         string = " " + product_name
         string += "\nPrice: " + str(product[0])
-        string += "\t" + "Availability: " + str(product[1])
         return string
 
+    @staticmethod
+    def print_price_purchase(product_name):
+        for i in range(len(Inventory_Items)):
+            if (product_name == Inventory_Items[i]):
+                return int(i)
+                break
 
-    #def compute_purchase(self):
-
-
-    #def compute_cancellation(self):
-        #Function should be able to update purchases with the correct amount of balace used beforehand
-
+    def compute_total(product, iteration):
+        total = 0.00
+        temp = product.data[product.item_name[iteration]]
+        total += float(temp[0])
+        return total
+        
 
 Inventory_Items = ["Monster Hunter", "QANBA3", "Nintendo Switch"]
-
 
 #p = Items(0, "Monster Hunter")
 # p.get_items_attributes(p)
