@@ -24,5 +24,5 @@ Program examples:
 ### Credits:
 
 [Lenier Gerena Meléndez](https://github.com/Suaniel "Lenier's Github")
-[Anibal J. Ocasio Peréz]
-[Christian Arturo Rodriguez]
+[Anibal J. Ocasio Peréz]()
+[Christian Arturo Rodriguez]()
