@@ -259,7 +259,7 @@ class Interface:
     def print_purchased_info(self, product_name, amount, label, iterator, aux_itr):
         product_Items = Items(0, Inventory_Items[aux_itr])
         info_to_print = product_Items.data[product_name]
-        string_to_print = "Purchase #" + str(self.times_purchasing) + "\n\n"
+        string_to_print = "Purchase #" + str(self.times_purchasing) + "\n\n" # VERIFY
         string_to_print = product_Items.print_inventory_data_str(info_to_print, product_name)
         string_to_print += "\t" + "Amount purchased: " + str(amount)
         # print(self.times_purchasing)
