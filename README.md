@@ -24,8 +24,12 @@ Program examples:
 
 
 ![Login_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_login_example.png)
+
 ![Main_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_mainScreen_example.png)
-![Purchase_Scree](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_purchaseScreen_example.png)
+
+![Purchase_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_purchaseScreen_example.png)
+
+![Cart_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_cartScreen_example.png)
 
 
 ### Credits:
