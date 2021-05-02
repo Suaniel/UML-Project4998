@@ -23,8 +23,9 @@ We made set our sights in developing this project using Python and Python librar
 Program examples:
 
 
-![Login:](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_login_example.png)
+![Login_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_login_example.png)
 ![Main_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_mainScreen_example.png)
+![Purchase_Scree](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_purchaseScreen_example.png)
 
 
 ### Credits:
