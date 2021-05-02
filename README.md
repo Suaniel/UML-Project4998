@@ -31,6 +31,8 @@ Program examples:
 
 ![Cart_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_cartScreen_example.png)
 
+![Order_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_orderScreen_example.png)
+
 
 ### Credits:
 
