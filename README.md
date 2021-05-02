@@ -18,6 +18,7 @@ We made set our sights in developing this project using Python and Python librar
 
 * Have Python 3 installed
   * Pillow module installed
+  * Tkinter module installed
 
 Program examples:
 
