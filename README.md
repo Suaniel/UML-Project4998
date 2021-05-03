@@ -23,7 +23,7 @@ We made set our sights in developing this project using Python and Python librar
 ## Program examples:
 
 ### Login Screen
-![Login_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_login_example.png)
+![Login_Screen](https://github.com/Suaniel/UML-Project4998/blob/main/Example_images/Shop_plus_login_example.png)
 ### Main Screen
 ![Main_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_mainScreen_example.png)
 ### Purchase Screen
