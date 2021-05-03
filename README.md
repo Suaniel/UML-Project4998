@@ -29,7 +29,7 @@ We made set our sights in developing this project using Python and Python librar
 ### Purchase Screen
 ![Purchase_Screen](https://github.com/Suaniel/UML-Project4998/blob/main/Example_images/Shop_plus_purchaseScreen_example.png)
 ### Cart Screen
-![Cart_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_cartScreen_example.png)
+![Cart_Screen](https://github.com/Suaniel/UML-Project4998/blob/main/Example_images/Shop_plus_cartScreen_example.png)
 ### Order Screen
 ![Order_Screen](https://github.com/Suaniel/UML-Project4998/blob/GUI/Example_images/Shop_plus_orderScreen_example.png)
 
